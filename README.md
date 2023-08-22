@@ -31,6 +31,8 @@ pip install -r requirements.txt
 
 ```bash
 git clone https://github.com/your-username/license-plate-detection.git
+
+
 ## Steps
 1. Read and Preprocess Image: The script reads in an image and converts it to grayscale using OpenCV.
 
