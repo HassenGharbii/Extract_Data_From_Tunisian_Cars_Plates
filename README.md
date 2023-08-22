@@ -24,14 +24,14 @@ This project aims to:
 Install the required packages using the following command:
 ```bash
 pip install -r requirements.txt
-
+```
 ## Usage
 
 1. Clone this repository to your local machine:
 
 ```bash
 git clone https://github.com/your-username/license-plate-detection.git
-
+```
 
 ## Steps
 1. Read and Preprocess Image: The script reads in an image and converts it to grayscale using OpenCV.
