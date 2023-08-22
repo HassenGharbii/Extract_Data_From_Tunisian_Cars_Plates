@@ -1,4 +1,4 @@
-# License Plate Detection and OCR using Python
+# License Plate Detection with OCR and Python
 
 This project demonstrates a basic process for detecting license plates in images and extracting text from them using Python. It utilizes OpenCV for image manipulation, EasyOCR for optical character recognition, and Matplotlib for visualization.
 
